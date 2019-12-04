@@ -1,0 +1,17 @@
+﻿Build started 29/05/2019 08:26:52.
+     1>Project "D:\GLUT project\Coba GLUT 1\Coba GLUT 1\Coba GLUT 1.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\GLUT project\Coba GLUT 1\Release\".
+       InitializeBuildStatus:
+         Creating "Release\Coba GLUT 1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "asdos grafkom 2.cpp" coba.cpp
+         asdos grafkom 2.cpp
+     1>asdos grafkom 2.cpp(2): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+         coba.cpp
+     1>coba.cpp(3): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+     1>Done Building Project "D:\GLUT project\Coba GLUT 1\Coba GLUT 1\Coba GLUT 1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.28

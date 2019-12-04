@@ -1,0 +1,15 @@
+﻿Build started 29/05/2019 08:59:18.
+     1>Project "D:\GLUT project\Coba GLUT 1\Coba GLUT 1\Coba GLUT 1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Coba GLUT 1.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\User\Downloads\Compressed\New folder\freeglut\include" /I"C:\Users\User\Downloads\Compressed\New folder\glew-1.11.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt coba.cpp
+         coba.cpp
+     1>d:\glut project\coba glut 1\coba glut 1\coba.cpp(8): error C2059: syntax error : 'constant'
+     1>d:\glut project\coba glut 1\coba glut 1\coba.cpp(9): error C2228: left of '.glClear' must have class/struct/union
+                 type is 'double'
+     1>Done Building Project "D:\GLUT project\Coba GLUT 1\Coba GLUT 1\Coba GLUT 1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.14

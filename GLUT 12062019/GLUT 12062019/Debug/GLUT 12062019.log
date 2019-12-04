@@ -1,0 +1,28 @@
+﻿Build started 19/06/2019 7:49:16.
+     1>Project "D:\GLUT project\GLUT 12062019\GLUT 12062019\GLUT 12062019.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\GLUT project\GLUT 12062019\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\GLUT 12062019.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\User\Downloads\Compressed\VS 2010 GLUT and GLEW\freeglut\include" /I"C:\Users\User\Downloads\Compressed\VS 2010 GLUT and GLEW\glew-1.11.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt vektor.cpp
+         vektor.cpp
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(53): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(53): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(53): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(53): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(53): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(53): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(53): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(53): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(53): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(55): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(59): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(64): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\glut project\glut 12062019\glut 12062019\vektor.cpp(65): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Done Building Project "D:\GLUT project\GLUT 12062019\GLUT 12062019\GLUT 12062019.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.84
